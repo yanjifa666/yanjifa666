@@ -1,12 +1,7 @@
 ## Hi there 👋
-
-<!--
-**yanjifa666/yanjifa666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hi ！ SLAM
-
+## 🧑‍💻 About Me
+- 🔭 I'm currently working on **视觉 ang 激光 SLAM / 机器人**
+- 🌱 Learning **C++ / Python / SLAM**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +10,4 @@ Hi ！ SLAM
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
